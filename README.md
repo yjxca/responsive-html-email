@@ -2,6 +2,10 @@
 
 A responsive marketing email template built with HTML and CSS, with a focus on email-client compatibility, mobile responsiveness, and reliable rendering.
 
+## Live Demo
+
+[View the responsive HTML email demo](https://yjxca.github.io/responsive-html-email/)
+
 ## Features
 
 - Table-based email layout
